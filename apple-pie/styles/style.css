@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    font-size: 32px;
+}
+/* Containers */
+.header-recipe {
+    background-image: url('../images/apple-pie.jpg');
+    background-size: cover;
+    height: 100vh;
+    margin-bottom: 50px;
+}
+.main-body {
+    margin: 0px 10%;
+}
+/* Sections */
